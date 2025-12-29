@@ -1,8 +1,20 @@
 <<<<<<< HEAD
-# tasktracker
+# Task Tracker
+flutter assignment
+A new Flutter Task Tracker Project Assignment
 
-A new Flutter Task Tracker Project
+## App Features
+- Display a list of tasks
+- Add a task with title and short description
+- Delete tasks
+- Clean and minimal user interface
+- Basic state management using setState
 
+## 🚀 How to Run the Project
+Clone this projet
+flutter pub get
+flutter run
+   
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -16,6 +28,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 =======
-# Task-Tracker
+
 flutter assignment
 >>>>>>> 92da1f540db68f104c6f9facb6d2fb302aba717a
