@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tasktracker
 
 A new Flutter Task Tracker Project
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Task-Tracker
+flutter assignment
+>>>>>>> 92da1f540db68f104c6f9facb6d2fb302aba717a
